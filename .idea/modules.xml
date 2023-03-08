@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JPA.iml" filepath="$PROJECT_DIR$/JPA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manytomany/manytomany.iml" filepath="$PROJECT_DIR$/manytomany/manytomany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manytomanyextracolumns/manytomanyextracolumns.iml" filepath="$PROJECT_DIR$/manytomanyextracolumns/manytomanyextracolumns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onetomany/onetomany.iml" filepath="$PROJECT_DIR$/onetomany/onetomany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onetoonefk/onetoonefk.iml" filepath="$PROJECT_DIR$/onetoonefk/onetoonefk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onetoonepk/onetoonepk.iml" filepath="$PROJECT_DIR$/onetoonepk/onetoonepk.iml" />
+    </modules>
+  </component>
+</project>

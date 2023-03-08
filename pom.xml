@@ -9,6 +9,9 @@
     <modules>
         <module>onetoonepk</module>
         <module>onetoonefk</module>
+        <module>manytomany</module>
+        <module>manytomanyextracolumns</module>
+        <module>onetomany</module>
     </modules>
 
     <dependencyManagement>
